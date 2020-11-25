@@ -1,4 +1,4 @@
-import { GraphQLList, GraphQLObjectType, GraphQLString, GraphQLList } from 'graphql';
+import { GraphQLList, GraphQLObjectType, GraphQLString } from 'graphql';
 import { Post } from './Post';
 import { fakeDatabase } from '../../FakeDatabase';
 
